@@ -1,4 +1,4 @@
 # Test_Lesson
 Test
-http://github.com - automatic!
-[VK](vk.com)
+http://vk.com - automatic!
+[VK](https://vk.com/beyondthedark)
