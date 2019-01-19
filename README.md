@@ -1,3 +1,4 @@
 # Test_Lesson
 Test
-<a>href = "vk.com" </a>
+http://github.com - automatic!
+[VK](vk.com)
